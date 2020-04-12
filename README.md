@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Tracker
+
+Built using React,Hooks and Material-UI
+
+
+![image](https://i.imgur.com/gulnc5n.png)
+
+## Get country-wise data
+
+![image](https://i.imgur.com/EKgStof.png)
 
 ## Available Scripts
 
